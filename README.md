@@ -23,5 +23,5 @@
 
 
 ##  Fun fact:  
-I can switch from pipettes to Python seamlessly—one moment, I’m culturing cells, the next, I’m debugging an R script! 🚀  
+I can switch from pipettes to Python seamlessly—one moment, I’m culturing cells, the next, I’m debugging an python script! 🚀  
 
